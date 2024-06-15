@@ -1,0 +1,15 @@
+{
+    "name": "vercel-node-server",
+    "version": "1.0.0",
+    "description": "Sample Node.js server for deployment on Vercel",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.2"
+    }
+  }
+  
